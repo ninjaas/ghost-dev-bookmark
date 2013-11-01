@@ -29,6 +29,9 @@ Ghost
     + [Magnum](https://github.com/durgesh-priyaranjan/magnum) -
       [[**Demo**]](http://magnum.ghostlook.com/)
       A simple and responsive theme for Ghost.
+    + [GhostScroll](https://github.com/grmmph/GhostScroll) -
+      [[*DEMO*]](http://ghostscroll.grmmph.com/)
+      A ghost theme for quick and simple one-page scroll websites.
 + Customization
     + [Add Disqus Comments & Counts with faster loading on demand](http://ghost.centminmod.com/ghost-posts-with-faster-disqus-load-speed/)
     + [Add Google+ Comments to Ghost](http://seo-michael.co.uk/add-google-plus-comments-to-ghost/)
