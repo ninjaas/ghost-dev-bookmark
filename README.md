@@ -3,6 +3,7 @@ Ghost
 + Tutorials
     + Themes
         + [Official Themes Documentation](http://docs.ghost.org/themes/)
+        + [One-Click Ghost Install Script for Ubuntu and CentOS](http://www.allaboutghost.com/one-click-ghost-install-script/)
         + [Ghost Theme Basics](http://thundrfoot.com/ghost-theme-basics/)
         + [Making a Ghost Theme](http://www.codeforest.net/making-of-ghost-theme)
         + [Understanding Ghost: Stages of Design](http://webdesign.tutsplus.com/tutorials/cms-tutorials/understanding-ghost-stages-of-design/)
